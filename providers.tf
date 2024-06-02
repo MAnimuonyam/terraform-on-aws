@@ -8,5 +8,5 @@ terraform {
   }
 }
 provider "aws" {
-  region = var.region-name
+  region = var.us-west-2
 }
